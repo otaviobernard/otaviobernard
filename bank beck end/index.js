@@ -98,9 +98,12 @@ app.get("/statement/cpf", verifyIfExistsAccount, (request, response) => { /* fil
     return response.status(201).json(customer.statement)
 })
 
-/* app.delete{ 
-            deletando conta existente
-} */
+app.delete("/delete", verifyIfExistsAccount, (request, response) => { /* deletando conta existente */
+    const { customer } = request;
+    customers.splice(customer, 1);
+
+    return response.status(204).json({ customers });
+})
 
 app.delete
 
