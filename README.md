@@ -1,5 +1,5 @@
 What's up!! 
-I'm Otávio Bernardo, 22, Brazil, i devevelop in java and c++ and interested in program development, and now i've learning javascript.
+I'm Otávio Bernardo, 22, Brazil, i devevelop in javascript and java and interested in program development.
 
 My social accounts: 
   ig: otaviobernd
