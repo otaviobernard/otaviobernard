@@ -1,5 +1,5 @@
 What's up!! 
-I'm Otávio Bernardo, 22, Brazil, i devevelop in javascript and java
+I'm Otávio Bernardo, 22, Brazil, i devevelop in javascript and c#
 
 My social accounts: 
   ig: instagram.com/otaviobernard                      
