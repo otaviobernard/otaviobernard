@@ -14,7 +14,7 @@
   <a href="https://github.com/otaviobernard">
   <img height="130em" src="https://github-readme-stats-nine-navy.vercel.app/api?username=otaviobernard&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=otaviobernard&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="otaviobernard"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviobernard&layout=compact&theme=radical&hide_border=false" /></a>
+  <img align="center"height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviobernard&layout=compact&theme=radical&hide_border=false" /></a>
 </div>
   
 ---
