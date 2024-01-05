@@ -6,7 +6,7 @@
 ----
 
 #### Technologies: 
-<img src="https://img.shields.io/badge/-C＃-00599C?style=flat&logo=c%2B%2B&logoColor=000000"> <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=000000"> <img src="https://img.shields.io/badge/-REACT.JS-5C727B?style=flat&logo=react&logoColor=0111110">
+<img src="https://img.shields.io/badge/-C＃-00599C?style=flat&logo=c%2B%2B&logoColor=000000"> <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=000000"> 
 
 ---
 
