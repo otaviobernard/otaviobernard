@@ -1,7 +1,6 @@
 ## What's up!! 👋
 
-- I'm Otávio Bernardo and Chatbot Developer
-- Currently developing in C# and Javascript
+- I'm Otávio Bernardo and my stacks are c# and node.js
 
 ----
 
