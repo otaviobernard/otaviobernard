@@ -1,6 +1,6 @@
 ## What's up!! 👋
 
-- I'm Otávio Bernardo and my stacks are c# and node.js
+Getting rich with csharp
 
 ----
 
